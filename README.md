@@ -82,12 +82,5 @@ This project compares various sorting algorithms: Selection Sort, Bubble Sort, M
 
 ## Acknowledgments
 
-This project was created by Ali Fatih Durgut as part of a comparative study on sorting algorithms.
+This project was created by Ali Durgut
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or open an issue to discuss any changes.
-
-## License
-
-This project is licensed under the MIT License.
